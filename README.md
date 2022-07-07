@@ -1,2 +1,2 @@
-# Exerc-cios-de-APC---UNB-
-Atividades de algoritmo e programação de computadores
+# Exercicios-de-APC-UNB
+Atividades de algoritmos e programação de computadores
